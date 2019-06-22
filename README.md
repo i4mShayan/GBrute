@@ -35,7 +35,7 @@ Prerequisite :
 ```
 
 <br>
-<h2>Requirement packages installation</h2>
+<h2>Required packages installation</h2>
 
 ```bash
   pip3 install -r requirements.txt
