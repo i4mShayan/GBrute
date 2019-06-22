@@ -6,7 +6,7 @@ A new Gmail password cracker written by Python.
 <img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.gif" width="60%">
 <b
 <hr>
---> Has tested on <b>Debian 9.9</b> with <b>Python 3.5.3</b>.
+--> Has been tested on <b>Debian 9.9</b> with <b>Python 3.5.3</b>.
 <hr>
 
 Prerequisite :
