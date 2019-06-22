@@ -1,2 +1,52 @@
 # GBrute
-A new Gmail password cracker
+  _____ ____             _       
+ / ____|  _ \           | |      
+| |  __| |_) |_ __ _   _| |_ ___ 
+| | |_ |  _ <| '__| | | | __/ _ \
+| |__| | |_) | |  | |_| | ||  __/
+ \_____|____/|_|   \__,_|\__\___|
+                                                                 
+A new Gmail password cracker written by Python.
+
+<img src="https://github.com/i4mShayan/GBrute/blob/master/GBrute.gif" width="100%">
+Has tested on <b>Debian 9.9</b> with <b>Python 3.5.3</b>.
+
+
+Prerequisite :
+============
+
+<h2>Pip installation</h2>
+<b>Ubuntu and Debian(Kali)</b> :
+<br>
+
+```text
+  sudo apt install python3-pip
+```
+
+<br>
+<b>Fedora and RHEL</b> :
+
+```bash
+  sudo yum install python3-pip
+```
+
+<br>
+<b>Arch and Manjaro</b> :
+
+```bash
+  sudo pacman -S python3-pip
+```
+
+<br>
+<h2>Requirement packages installation</h2>
+
+```bash
+  pip3 install -r requirements.txt
+```
+
+<br>
+<h2>How to run it?</h2>
+
+```bash
+  python3 GBrute.py
+```
