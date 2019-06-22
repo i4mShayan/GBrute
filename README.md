@@ -1,11 +1,5 @@
 # GBrute
-  _____ ____             _       
- / ____|  _ \           | |      
-| |  __| |_) |_ __ _   _| |_ ___ 
-| | |_ |  _ <| '__| | | | __/ _ \
-| |__| | |_) | |  | |_| | ||  __/
- \_____|____/|_|   \__,_|\__\___|
-                                                                 
+<img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="100%">                     
 A new Gmail password cracker written by Python.
 
 <img src="https://github.com/i4mShayan/GBrute/blob/master/GBrute.gif" width="100%">
