@@ -1,6 +1,8 @@
 <img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="35%">
 <hr>
 A new Gmail password cracker written by Python.
+
+I wrote this CLI cracker because one of my frineds demanded me, LOL.
 <hr>
 
 <img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.gif" width="60%">
