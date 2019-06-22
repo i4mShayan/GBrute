@@ -1,10 +1,13 @@
-<img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="20%">                     
+<img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="35%">
+<hr>
 A new Gmail password cracker written by Python.
+<hr>
 
-
-<img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.gif" width="50%">
+<img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.gif" width="60%">
+<b
+<hr>
 --> Has tested on <b>Debian 9.9</b> with <b>Python 3.5.3</b>.
-
+<hr>
 
 Prerequisite :
 ============
