@@ -1,8 +1,8 @@
-<img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="30%">                     
+<img src="https://github.com/i4mShayan/GBrute/blob/master/logo.png" width="20%">                     
 A new Gmail password cracker written by Python.
 
 
-<img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.mp4" width="50%">
+<img src="https://github.com/i4mShayan/GBrute/blob/master/Gbrute.gif" width="50%">
 --> Has tested on <b>Debian 9.9</b> with <b>Python 3.5.3</b>.
 
 
